@@ -1213,6 +1213,8 @@ p.Schedule-ftfb{
   }
   .contact-us-each {
     padding: 24px 4px 24px;
+    height:154px;
+    overflow:hidden;
   }
   .contact-text {
     margin-top: 10px;
